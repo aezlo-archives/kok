@@ -34,3 +34,14 @@ p{
 .aezlo{
  color: #00539C;
 }
+
+img{
+  border-color: white;
+  border-width: 5px;  
+  border-style: dashed;
+}
+
+.img-valign {
+  vertical-align: middle;
+  margin-bottom: 0.75em;
+}
