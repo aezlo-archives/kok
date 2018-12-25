@@ -1,0 +1,32 @@
+body{ 
+ background-color: black;
+ color: white;
+}
+
+header{
+ font-size: 18px;
+ font-family: monospace;
+}
+
+p.retro-open {
+  font-family: monospace;
+  font-color: white;
+}
+
+span.heart{
+ color: red;
+ font-family: monospace;
+}
+
+span.dream{
+ color: #0077ee;
+ font-family: monospace;
+}
+
+span.creations{
+ color: #34e800;
+}
+
+p{ 
+ font-size: 13px;
+ }
