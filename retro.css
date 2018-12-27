@@ -39,3 +39,12 @@ hr{
  color: white;
  border-width: 2px;
 }
+
+img{
+  border-color: lime;
+}
+
+.img-valign {
+  vertical-align: middle;
+  margin-bottom: 0.75em;
+}
